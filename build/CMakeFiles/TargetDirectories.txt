@@ -1,3 +1,0 @@
-C:/dev/C C++/Learn OpenGL/build/CMakeFiles/Learn_OpenGL.dir
-C:/dev/C C++/Learn OpenGL/build/CMakeFiles/edit_cache.dir
-C:/dev/C C++/Learn OpenGL/build/CMakeFiles/rebuild_cache.dir
