@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/dev/C C++/Learn OpenGL/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Learn_OpenGL.dir/includes_C.rsp -g -o CMakeFiles\\Learn_OpenGL.dir\\src\\gl.c.obj -c \"C:\\dev\\C C++\\Learn OpenGL\\src\\gl.c\"",
+  "file": "C:/dev/C C++/Learn OpenGL/src/gl.c"
+},
+{
+  "directory": "C:/dev/C C++/Learn OpenGL/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Learn_OpenGL.dir/includes_C.rsp -g -o CMakeFiles\\Learn_OpenGL.dir\\src\\main.c.obj -c \"C:\\dev\\C C++\\Learn OpenGL\\src\\main.c\"",
+  "file": "C:/dev/C C++/Learn OpenGL/src/main.c"
+}
+]

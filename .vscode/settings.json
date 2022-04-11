@@ -1,0 +1,7 @@
+{
+  "cmake.launchBehavior": "newTerminal",
+  "cmake.loggingLevel": "debug",
+  "cmake.debugConfig": {
+    "externalConsole": true
+  }
+}
